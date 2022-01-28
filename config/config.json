@@ -1,0 +1,35 @@
+{
+  "development": {
+    "username": "esloctaru",
+    "password": "#H0864#@",
+    "database": "smart",
+    "host": "45.174.40.217",
+    "dialect": "mysql",
+    "define": {
+      "timestamps": true,
+      "underscored": false
+    }
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "define": {
+      "timestamps": true,
+      "underscored": false
+    }
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "define": {
+      "timestamps": true,
+      "underscored": false
+    }
+  }
+}

@@ -1,0 +1,8 @@
+
+POST http://45.174.40.217:3000/api/v1/login
+Content-Type: application/json
+
+{
+    "login": "044549471604",
+    "password": "jacare"
+}
